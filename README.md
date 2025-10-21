@@ -1,4 +1,8 @@
 # Audit Flash 
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+
 This project allows you to perform a quick security audit of your work environment and generate a clear and accurate report of potential vulnerabilities.
 
 ## Prerequesities
@@ -7,7 +11,10 @@ This project allows you to perform a quick security audit of your work environme
 
 ## Roadmap
 
-## Contributors
+## Autors - Contributors
+- Bertrand VEY _alias_ @Veybert
+- Titouan TUPINIER _alias_ @Raizen
+- Eliot GLEYSE _alias_ @Microndes
 
 ## Links
 
