@@ -12,7 +12,7 @@ None ! Just Plug and play the NUC/RaspberryPi on the company network 💻
 - [x] Open ports 🚪
 - [x] Local Firewall 🔥
 - [x] Vulnerable services ⚠️
-- [x] AD attributes
+- [x] AD attributes ☢️
 
 ## 🤝 Autors - Contributors
 3 students in Third year of bachelor's degree in cyber studies 👨‍🎓
