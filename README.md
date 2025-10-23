@@ -7,7 +7,7 @@
 ## ✔️ Prerequesities
 None ! Just Plug and play the NUC/RaspberryPi on the company network 💻
 
-## 🧪 What are we testing ? :
+## 🧪 What are we testing ?
 - [x] Abuse permissions ❎
 - [x] Open ports 🚪
 - [x] Local Firewall 🔥
