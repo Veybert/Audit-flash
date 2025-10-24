@@ -21,6 +21,7 @@
 - Titouan TUPINIER _alias_ @Raizen
 - Eliot GLEYSE _alias_ @Microndes
 
+🪜Any external contributions to the project that help improve and optimize its use are welcome.
 ## 🔗 Links
 
 ## 📹 Demo
