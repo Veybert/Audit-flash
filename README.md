@@ -1,8 +1,8 @@
 # Audit Flash --- 🏗️ Project In build, stay tuned ...
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-
-![logo Turbo tortue](./images/turbo-tortue-logo.png)
-
+<p align="center">
+  <img src="./images/turbo-tortue-logo.png" alt="Logo" width="650" />
+</p>
 📌 This project allows you to perform a quick security audit of your work environment and generate a clear and accurate report of potential vulnerabilities, including remediations.
 
 ## ✔️ Prerequesities
