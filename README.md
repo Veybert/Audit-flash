@@ -5,7 +5,8 @@
 📌 This project allows you to perform a quick security audit of your work environment and generate a clear and accurate report of potential vulnerabilities, including remediations.
 
 ## ✔️ Prerequesities
-None ! Just Plug and play the NUC/RaspberryPi on the company network 💻
+1. Just Plug and play the NUC/RaspberryPi on the company network 💻
+2. You must have admin account credentials 💳
 
 ## 🧪 What are we testing ?
 - [x] Abuse permissions ❎
