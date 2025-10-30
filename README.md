@@ -34,7 +34,7 @@
 ## 🤝 Autors - Contributors
 3 students in Third year of bachelor's degree in cyber studies 👨‍🎓
 - **Bertrand VEY** _alias_ [@Veybert](https://github.com/Veybert)
-- **Titouan TUPINIER** _alias_ @Raizen
+- **Titouan TUPINIER** _alias_ [@Raisin](https://github.com/Raisin-ArchiSec)
 - **Eliot GLEYSE** _alias_ [@Eglzz](https://github.com/Eglzz)
 
 🪜Any external contributions to the project that help improve and optimize its use are welcome.
