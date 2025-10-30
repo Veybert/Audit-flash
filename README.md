@@ -5,11 +5,12 @@
   <img src="./images/turbo-tortue-logo.png" alt="Logo" width="450" />
 
 <div align="center">
-  
+
+![audit-flash](https://github.com/Veybert/Audit-flash/blob/main/images/audit-flash-v1.0.1.svg)  
 ![Python](https://forthebadge.com/images/badges/made-with-python.svg)
-![Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 ![Machine](https://forthebadge.com/images/badges/works-on-my-machine.svg)
-![audit-flash](https://github.com/Veybert/Audit-flash/blob/main/images/audit-flash-v1.0.1.svg)
+![TIBEL](https://github.com/Veybert/Audit-flash/blob/main/images/powered-by-tibel-security.svg)
+
 
 📌 This project allows you to perform a quick security audit of your work environment and generate a clear and accurate report of potential vulnerabilities, including remediations.
 
