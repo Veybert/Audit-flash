@@ -1,10 +1,23 @@
 # Audit Flash --- 🏗️ Project In build, stay tuned ...
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) ![audit-flash](https://github.com/Veybert/Audit-flash/blob/main/images/audit-flash-v1.0.1.svg)
+
 <p align="center">
-  <img src="./images/turbo-tortue-logo.png" alt="Logo" width="650" />
-</p>
+  
+  <img src="./images/turbo-tortue-logo.png" alt="Logo" width="450" />
+
+<div align="center">
+  
+![Python](https://forthebadge.com/images/badges/made-with-python.svg)
+![Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+![Machine](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+![audit-flash](https://github.com/Veybert/Audit-flash/blob/main/images/audit-flash-v1.0.1.svg)
+
 📌 This project allows you to perform a quick security audit of your work environment and generate a clear and accurate report of potential vulnerabilities, including remediations.
 
+</div>
+
+</p>
+
+---
 ## ✔️ Prerequesities
 1. Just Plug and play the **NUC/RaspberryPi** on the company network 💻
 2. You must have **admin account credentials** 💳
