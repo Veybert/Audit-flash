@@ -22,7 +22,7 @@
 ## ✔️ Prerequesities
 1. Just Plug and play the **NUC/RaspberryPi** on the company network 💻
 2. You must have **admin account credentials** 💳
-3. **Operating System** Windows 10/11
+3. **Operating System** Windows 10/11 🪟
 
 ## 🧪 What are we testing ?
 - [x] Abuse permissions ❎
